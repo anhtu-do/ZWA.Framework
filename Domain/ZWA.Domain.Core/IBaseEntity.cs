@@ -17,4 +17,5 @@ namespace ZWA.Domain.Core
 
         public DateTimeOffset ModifiedDate { get; set; }
     }
+
 }

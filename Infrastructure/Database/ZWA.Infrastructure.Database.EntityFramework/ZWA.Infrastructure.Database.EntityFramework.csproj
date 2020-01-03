@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Application\ZWA.Application.Core\ZWA.Application.Core.csproj" />
+    <ProjectReference Include="..\ZWA.Infrastructure.Database.Core\ZWA.Infrastructure.Database.Core.csproj" />
   </ItemGroup>
 
 </Project>
